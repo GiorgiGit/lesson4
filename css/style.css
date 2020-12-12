@@ -1,0 +1,127 @@
+
+
+/*header*/
+
+.html-logo {
+vertical-align: middle;
+
+display: inline-block;
+}
+.header-text {
+font-size: 22 ;
+color: #3D58A6 ;
+;
+font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.active {color:  #EE4036 }
+.navigation {
+
+	display: inline-block;
+	margin-left: 50px ;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 22px;
+} 
+.header-wrapper {padding-left: 30px}
+
+
+
+/*body */
+
+.index-h2 {font-size: 24px;
+}
+.article-text {
+width: 929.02px;
+ font-family: 'BPG Ingiri Arial';
+ text-indent: 50px; 
+ }
+.article-title { 
+margin: 13.5px 589px  17.5px 33.5px 
+}
+.style-img {
+
+display: inline-block;
+margin-right: 39px ;
+}
+.div-article-text {
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.style-footer {
+display: inline-block;
+}
+.div-style {
+	display: inline-block; 
+	margin-top: 31.7px;
+}
+.divider { 
+width: 2px; 
+height: 27px ; 
+display: inline-block; 
+margin:0 30px 0 36px;
+ }
+
+.article-style {
+	padding-left: 30px
+}
+
+.left-block,
+.right-block {
+	width: 570px ; height: 225px ;
+	background-color: #F2F2F2 
+	; display: inline-block;
+	vertical-align: middle ;	 
+	padding: 18px 1.5px 17.3px 38.8px; 
+	font-family: 'Roboto', sans-serif;
+}
+.right-block {
+	margin-right: 29px;  
+}
+.left-block h3 {
+	text-transform: uppercase;
+}
+.image-block {
+display: inline-block;
+vertical-align: middle;
+margin-right: 60px; 
+margin-top: 12.7px; 
+}
+.text-block {
+	display: inline-block;
+	width: 355px ;
+	 ;
+	vertical-align: middle;
+}
+.container{
+	width: 1170px;
+	margin:0 auto;
+}
+.d-inline-block{
+	display: inline-block;
+}
+
+/*contact page*/
+/*contact page*/
+
+.კონტაქტისლისტი {
+color: #808080;
+ text-align: center;
+  font-family: 'BPG Ingiri Arial';
+}
+.contact-title {
+ text-align: center;
+ color: #3D58A6 ; 
+ font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.contact-section { 
+background-color: #E6E6E6;
+;
+ }
+.left-block-contact,
+.right-block-contact { 
+display: inline-block;
+vertical-align: top;
+margin-right: 13.7px;
+padding-top: 49px;padding-bottom: 55px ; }
